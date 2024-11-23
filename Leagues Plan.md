@@ -16,6 +16,7 @@
 <h2 id="resources">Resources</h2>
 <p>Raging Echoes: <a href="https://oldschool.runescape.wiki/w/Raging_Echoes_League">Wiki</a><br>
 Raging Echoes <a href="https://secure.runescape.com/m=news/leagues-v-teasers--faqs---releasing-november-27th?oldschool=1">Newsletter</a><br>
+Combat Masteries <a href="https://cdn.runescape.com/assets/img/external/oldschool/2024/newsposts/2024-11-29-U921gr9/cbm-chart.jpg?_gl=1*120e278*_gcl_au*MTIwMTMxOTg3NS4xNzMyMDI5ODc1*_ga*MjE0NTUzODQ4Ny4xNzMyMDI5ODc1*_ga_DSN9YBF934*MTczMjM5NTQ2NC4xNi4xLjE3MzIzOTY0NTkuNjAuMC4w#_ga=2.50952234.281193427.1732311187-2145538487.1732029875">Chart</a><br>
 Trailblazer Reloaded <a href="https://oldschool.runescape.wiki/w/Trailblazer_Reloaded_League">Wiki</a></p>
 <p>DPS Calculator: <a href="https://tools.runescape.wiki/osrs-dps/">Calc</a><br>
 LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&amp;t=599s">Inspiration for plan</a></p>
