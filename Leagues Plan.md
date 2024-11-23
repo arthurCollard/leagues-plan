@@ -4,7 +4,22 @@
 ---
 
 <h1 id="leagues-plan">Leagues Plan!</h1>
-<h3 id="regions">Regions</h3>
+<h3 id="contents">Contents</h3>
+<ol>
+<li><a href="#resources">Resources</a></li>
+<li><a href="#regions">Regions</a></li>
+<li><a href="#relics">Relics</a></li>
+<li><a href="#tier-1">Tier 1</a></li>
+<li><a href="#tier-2">Tier 2</a></li>
+<li><a href="#tier-3">Tier 3</a></li>
+</ol>
+<h2 id="resources">Resources</h2>
+<p>Raging Echoes: <a href="https://oldschool.runescape.wiki/w/Raging_Echoes_League">Wiki</a><br>
+Raging Echoes <a href="https://secure.runescape.com/m=news/leagues-v-teasers--faqs---releasing-november-27th?oldschool=1">Newsletter</a><br>
+Trailblazer Reloaded <a href="https://oldschool.runescape.wiki/w/Trailblazer_Reloaded_League">Wiki</a></p>
+<p>DPS Calculator: <a href="https://tools.runescape.wiki/osrs-dps/">Calc</a><br>
+LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&amp;t=599s">Inspiration for plan</a></p>
+<h2 id="regions">Regions</h2>
 <pre><code>Kourend / Fremmy / Asgarnia
 </code></pre>
 <h3 id="relics">Relics</h3>
@@ -16,7 +31,7 @@
 6)
 7) Weapon Master vs Guardian vs Last Stand (Undecided)
 </code></pre>
-<h1 id="tier-1-0-points">Tier 1 (0 Points)</h1>
+<h2 id="tier-1-0-points-a-nametier-1">Tier 1 (0 points) <a></a></h2><a>
 <h4 id="take-animal-wrangler">Take Animal Wrangler</h4>
 <pre><code>0) Complete Leagues Tutorial and open leagues menu
 1) Run over to combat tutor, drop runes, and claim tutor
@@ -74,7 +89,7 @@
 51) Do varrock agility course (+10)
 	a) Do 10 laps (+30)
 </code></pre>
-<h1 id="tier-2-500-points">Tier 2 (500 Points)</h1>
+</a><h1 id="tier-2-500-points-a-nametier-2"><a>Tier 2 (500 Points) </a><a></a></h1><a>
 <h4 id="take-clue-compass">Take Clue Compass</h4>
 <pre><code>0) Buy Mind and fire runes from Aubry, leave at least ~5k 
 1) Teleport into essence mine (+10)
@@ -147,7 +162,7 @@
 	d) Smelt an Iron Bar (+10)
 	e) Go back and fish/cook
 </code></pre>
-<h1 id="tier-3-1200-points">Tier 3 (1,200 Points)</h1>
+</a><h1 id="tier-3-1200-points-a-nametier-3"><a>Tier 3 (1,200 Points) </a><a></a></h1><a>
 <h4 id="take-total-recall">Take Total Recall</h4>
 <h4 id="should-be-able-to-unlock-first-region-here-60-tasks">Should be able to unlock first region here (~60 tasks)</h4>
 <pre><code>0) Claim xp in the Varrock Museum, Lamps should give you overhead prayers
@@ -155,4 +170,4 @@
 2) Finish Vampyre Slayer (+30)
 3) Reach combat lvl 10, lvl 25 (+20)
 </code></pre>
-
+</a>
