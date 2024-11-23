@@ -22,7 +22,7 @@ LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&
 <h2 id="regions">Regions</h2>
 <pre><code>Kourend / Fremmy / Asgarnia
 </code></pre>
-<h3 id="relics">Relics</h3>
+<h2 id="relics">Relics</h2>
 <pre><code>1) Animal Wrangler (Confident)
 2) Clue Compass (Confident)
 3) Total Recall (Confident)
@@ -31,7 +31,8 @@ LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&
 6)
 7) Weapon Master vs Guardian vs Last Stand (Undecided)
 </code></pre>
-<h2 id="tier-1-0-points-a-nametier-1">Tier 1 (0 points) <a></a></h2><a>
+<h2 id="tier-1">Tier 1</h2>
+<h3 id="points">(0 Points)</h3>
 <h4 id="take-animal-wrangler">Take Animal Wrangler</h4>
 <pre><code>0) Complete Leagues Tutorial and open leagues menu
 1) Run over to combat tutor, drop runes, and claim tutor
@@ -89,7 +90,8 @@ LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&
 51) Do varrock agility course (+10)
 	a) Do 10 laps (+30)
 </code></pre>
-</a><h1 id="tier-2-500-points-a-nametier-2"><a>Tier 2 (500 Points) </a><a></a></h1><a>
+<h2 id="tier-2">Tier 2</h2>
+<h3 id="points-1">(500) Points</h3>
 <h4 id="take-clue-compass">Take Clue Compass</h4>
 <pre><code>0) Buy Mind and fire runes from Aubry, leave at least ~5k 
 1) Teleport into essence mine (+10)
@@ -162,7 +164,8 @@ LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&
 	d) Smelt an Iron Bar (+10)
 	e) Go back and fish/cook
 </code></pre>
-</a><h1 id="tier-3-1200-points-a-nametier-3"><a>Tier 3 (1,200 Points) </a><a></a></h1><a>
+<h2 id="tier-3">Tier 3</h2>
+<h3 id="points-2">(1200 Points)</h3>
 <h4 id="take-total-recall">Take Total Recall</h4>
 <h4 id="should-be-able-to-unlock-first-region-here-60-tasks">Should be able to unlock first region here (~60 tasks)</h4>
 <pre><code>0) Claim xp in the Varrock Museum, Lamps should give you overhead prayers
@@ -170,4 +173,4 @@ LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&
 2) Finish Vampyre Slayer (+30)
 3) Reach combat lvl 10, lvl 25 (+20)
 </code></pre>
-</a>
+
