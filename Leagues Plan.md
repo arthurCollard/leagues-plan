@@ -200,6 +200,10 @@ LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&
 <li>Prayer potions</li>
 </ul>
 </li>
-<li>Get Farming lvl</li>
+<li>Get Farming lvl for farming guild
+<ul>
+<li>Farm runs for hespori seed</li>
+</ul>
+</li>
 </ul>
 
