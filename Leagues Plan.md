@@ -26,18 +26,20 @@ LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&
 </code></pre>
 <h2 id="relics">Relics</h2>
 <pre><code>1) Animal Wrangler (Confident)
-2) Clue Compass (Confident)
-3) Total Recall (Confident)
-4) Arcane Grimoire vs Overgrown (Undecided)
-5) Dodgy Deals (Confident)
-6)
-7) Weapon Master vs Guardian vs Last Stand (Undecided)
+2) Dodgy Deals (Confident)
+3) Clue Compass (Confident)
+4) Equilibrium (Confident)
+5) Production Master (Confident)
+6) Banker's Note (Confident)
+7) Overgrown vs Arcane grimoire
+8) Last Stand (Confident)
 </code></pre>
 <h2 id="tier-1">Tier 1</h2>
 <h3 id="points">(0 Points)</h3>
 <h4 id="take-animal-wrangler">Take Animal Wrangler</h4>
 <pre><code>0) Complete Leagues Tutorial and open leagues menu (+20)
-1) Run over to combat tutor, drop runes, and claim tutor
+1) Run over to combat tutor, drop runes
+2) Claim runes and dramen stafff from tutor
 3) Run to north end of castle and grab shield from duke
 4) Bank - Keep runes, axe, tinderbox, pick, dramen staff, pot and bucket
 5) Run downstairs, and talk to cook to start quest
@@ -91,75 +93,76 @@ LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&
 50) Run south, and upset charlie the tramp(+10)
 51) Do varrock agility course (+10)
 	a) Do 10 laps (+30)
-</code></pre>
-<h2 id="tier-2">Tier 2</h2>
-<h3 id="points-1">(500) Points</h3>
-<h4 id="take-clue-compass">Take Clue Compass</h4>
-<pre><code>0) Buy Mind and fire runes from Aubry, leave at least ~5k 
-1) Teleport into essence mine (+10)
-2) Mine 25 rune essence, drop if low on inv (+30)
-3) Steal from Varrock tea stall (+10)
-4) Kill Mugger if possible (+10)
-5) Take the quiz in the bottom of Varrock museum (+10)
-6) Run north to sawmill, and turn any logs into planks (+10)
-7) Run north to church and have Elsie tell you a story (+10)
-6) Run west and talk to estate agent (+10)
-8) Run to varrock sewers
-9) Kill a rat (+10)
-10) Slash web if possible (+10) 
-11) Safe spot a Moss Giant (+10) (+1 CM)
-12) Tele to Karamja (Leagues Menu)
-13) Take cart to Shilo Village
-14) Grab hammer from bank
-15) Run Northeast in Shilo village and buy a night's rest (+30)
-16) Tele back to Karamja
-17) Enter Tzhaar area, and safespot a tzhaar (+30)
+	0) Buy Mind and fire runes from Aubry, leave at least ~5k 
+52) Teleport into essence mine (+10)
+53) Mine 25 rune essence, drop if low on inv (+30)
+54) Steal from Varrock tea stall (+10)
+55) Kill Mugger if possible (+10)
+56) Take the quiz in the bottom of Varrock museum (+10)
+57) Run north to sawmill, and turn any logs into planks (+10)
+58) Run north to church and have Elsie tell you a story (+10)
+59) Run west and talk to estate agent (+10)
+60) Run to varrock sewers
+61) Kill a rat (+10)
+62) Slash web if possible (+10) 
+63) Safe spot a Moss Giant (+10) (+1 CM)
+64) Tele to Karamja (Leagues Menu)
+65) Take cart to Shilo Village
+66) Grab hammer from bank
+67) Run Northeast in Shilo village and buy a night's rest (+30)
+68) Tele back to Karamja
+69) Enter Tzhaar area, and safespot a tzhaar (+30)
 	a) Kill 10 (+1 CM)
-18) Leave and Run East to banana farm
+70) Leave and Run East to banana farm
 	a) Eat a banana (+10)
 	b) Fill a crate with bananas (+10)
-19) Trade the traders on the dock (+10)
-20) Tele back to Karamja, run south and enter the Brimhaven dungeon (+30)
-21) Pick a Pineapple (+10)
-22) Run south to store
-23) Buy Bronze bars, runs south and smith on anvil, train smithing there if needed
+71) Trade the traders on the dock (+10)
+72) Tele back to Karamja, run south and enter the Brimhaven dungeon (+30)
+</code></pre>
+<h2 id="tier-2">Tier 2</h2>
+<h3 id="points-1">(750) Points</h3>
+<h4 id="take-dodgy-deals">Take Dodgy Deals</h4>
+<p>Around 59 tasks completed to this point.</p>
+<pre><code>0) Pick a Pineapple (+10)
+1) Run south to store
+2) Buy Bronze bars, runs south and smith on anvil, train smithing there if needed
 	a) Make bronze full helm (+10)
 	b) Make bronze plateskirt (+10)
-24) Kill Snake (+10)
-25) Run South and fish for Karambwanji (+10)
-26) Run south and use fairy ring, DKR (+10)
-27) Bank at GE
-28) Fish to level 50/60 if you want a break/something AFKish (+60)
-29) Tele to Lumbridge
+3) Kill Snake (+10)
+4) Run South and fish for Karambwanji (+10)
+5) Run south and use fairy ring, DKR (+10)
+6) Bank at GE
+7) Fish to level 50/60 if you want a break/something AFKish (+60)
+8) Tele to Lumbridge
 	a) Cook any uncooked fish you have on the range 
 	b) if you have 38 cooking get a bucket of milk and use it on churn until you get butter (+30)
-30) Run South to the swamp, and buy a candle near the hole (+30)
-31) Kill a frog (+10)
-32) Home Tele/Leagues Tele to Misthalin
-33) Complete Sheep shearer if not busy (+30)
-34) Run across bridge and Kill Duck with Fire Spell (+10)
-35) Make a log Canoe (+10)
+9) Run South to the swamp, and buy a candle near the hole (+30)
+10) Kill a frog (+10)
+11) Home Tele/Leagues Tele to Misthalin
+12) Complete Sheep shearer if not busy (+30)
+13) Run across bridge and Kill Duck with Fire Spell (+10)
+14) Make a log Canoe (+10)
 	a) Cut trees and train if needed
-36) Kill a dark wizard South of Varrock (+10)
-37) Pick a cabbage (+10)
-38) Use bronze med helm on hat stand in "Daddy's home house (+10)
-39) Run east to the digsite
-40) Pan for an Uncut Jade (+10)
-41) Run north to the barge and take it to Fossil Island (+10)
-42) Run east and pet the dog (+10)
-43) Travel back to Varrock
-44) Trade Horvak for a Black and steel platebody
+15) Kill a dark wizard South of Varrock (+10)
+16) Pick a cabbage (+10)
+17) Use bronze med helm on hat stand in "Daddy's home house (+10)
+18) Run east to the digsite
+19) Pan for an Uncut Jade (+10)
+20) Run north to the barge and take it to Fossil Island (+10)
+21) Run east and pet the dog (+10)
+22) Travel back to Varrock
+23) Trade Horvak for a Black and steel platebody
 	a) Wear both pieces of armor (+60)
-45) Sell them back to the shop
-46) Kill an Imp West of Varrock with earth spell, buy earth runes if need (+10)
+24) Sell them back to the shop
+25) Kill an Imp West of Varrock with earth spell, buy earth runes if need (+10)
 	a) Scatter ashes (+10)
-47) Bank and do some woodcutting, firemaking and fletching
+26) Bank and do some woodcutting, firemaking and fletching
 	a) Burn some logs (+10)
 	b) Burn some oak logs (+10)
 	c) Fletch 1000 arrow shafts (+30)
 	d) Feltch 25 oak stocks (+30)
-48) Enter the cooks guild if you can (+30)
-49) If still need points for next tier, Varrock tasks
+27) Enter the cooks guild if you can (+30)
+28) If still need points for next tier, Varrock tasks
 	a) Mine 5 tin ore (+10)
 	b) Mine Copper ore (+10)
 	c) Mine 50 Iron Ore, can drop for expediency (+30)
@@ -168,7 +171,7 @@ LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&
 </code></pre>
 <h2 id="tier-3">Tier 3</h2>
 <h3 id="points-2">(1200 Points)</h3>
-<h4 id="take-total-recall">Take Total Recall</h4>
+<h4 id="take-clue-compass">Take Clue Compass</h4>
 <h4 id="should-be-able-to-unlock-first-region-here-60-tasks">Should be able to unlock first region here (~60 tasks)</h4>
 <pre><code>0) Claim xp in the Varrock Museum, Lamps should give you overhead prayers
 1) Kill Scurius (+30) (+1 CM)
