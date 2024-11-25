@@ -31,7 +31,7 @@ LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&
 4) Equilibrium (Confident)
 5) Production Master (Confident)
 6) Banker's Note (Confident)
-7) Overgrown vs Arcane grimoire
+7) Overgrown vs Arcane grimoire (Undecided)
 8) Last Stand (Confident)
 </code></pre>
 <h2 id="tier-1">Tier 1</h2>
@@ -170,9 +170,10 @@ LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&
 	e) Go back and fish/cook
 </code></pre>
 <h2 id="tier-3">Tier 3</h2>
-<h3 id="points-2">(1200 Points)</h3>
+<h3 id="points-2">(??? Points)</h3>
 <h4 id="take-clue-compass">Take Clue Compass</h4>
-<h4 id="should-be-able-to-unlock-first-region-here-60-tasks">Should be able to unlock first region here (~60 tasks)</h4>
+<h4 id="should-be-able-to-unlock-first-region-here-90-tasks">Should be able to unlock first region here (~90 tasks)</h4>
+<p>Take Desert for 99 thieving potential and easy-ish echo boss.</p>
 <pre><code>0) Claim xp in the Varrock Museum, Lamps should give you overhead prayers
 1) Kill Scurius (+30) (+1 CM)
 2) Finish Vampyre Slayer (+30)
