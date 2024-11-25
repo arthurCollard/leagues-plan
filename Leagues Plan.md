@@ -31,7 +31,7 @@ LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&
 4) Equilibrium (Confident)
 5) Production Master (Confident)
 6) Banker's Note (Confident)
-7) Overgrown vs Arcane grimoire (Undecided)
+7) Overgrown (Confident)
 8) Last Stand (Confident)
 </code></pre>
 <h2 id="tier-1">Tier 1</h2>
@@ -109,6 +109,8 @@ LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&
 64) Tele to Karamja (Leagues Menu)
 65) Take cart to Shilo Village
 66) Grab hammer from bank
+	a) Get Task from Duradel
+	b) Get Enchanted Gem and Spiny Helm from duradel (+20)
 67) Run Northeast in Shilo village and buy a night's rest (+30)
 68) Tele back to Karamja
 69) Enter Tzhaar area, and safespot a tzhaar (+30)
