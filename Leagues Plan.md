@@ -20,6 +20,7 @@ Trailblazer Reloaded <a href="https://oldschool.runescape.wiki/w/Trailblazer_Rel
 <p>Combat Masteries <a href="https://cdn.runescape.com/assets/img/external/oldschool/2024/newsposts/2024-11-29-U921gr9/cbm-chart.jpg?_gl=1*120e278*_gcl_au*MTIwMTMxOTg3NS4xNzMyMDI5ODc1*_ga*MjE0NTUzODQ4Ny4xNzMyMDI5ODc1*_ga_DSN9YBF934*MTczMjM5NTQ2NC4xNi4xLjE3MzIzOTY0NTkuNjAuMC4w#_ga=2.50952234.281193427.1732311187-2145538487.1732029875">Chart</a><br>
 Combo Drops <a href="https://cdn.runescape.com/assets/img/external/oldschool/2024/newsposts/2024-11-15-Ag4t67/BOSS-DROPS_.jpg?_gl=1*j7ibr3*_gcl_au*MTIwMTMxOTg3NS4xNzMyMDI5ODc1*_ga*MjE0NTUzODQ4Ny4xNzMyMDI5ODc1*_ga_DSN9YBF934*MTczMjQxMTgwOS4xOS4wLjE3MzI0MTE4MDkuNjAuMC4w#_ga=2.152327098.281193427.1732311187-2145538487.1732029875">Map</a></p>
 <p>DPS Calculator: <a href="https://tools.runescape.wiki/osrs-dps/">Calc</a><br>
+Gecko Planning Sheet: <a href="https://docs.google.com/spreadsheets/d/1LJVEIIR9D56FF9PyUzb4nhofaCjpzSWTRGsUNsH7lNw/copy">Copy</a><br>
 LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&amp;t=599s">Inspiration for plan</a></p>
 <h2 id="regions">Regions</h2>
 <pre><code>Kourend / Fremmy / Asgarnia
@@ -73,7 +74,7 @@ LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&
 33) Go downstairs and run north of the castle, to farming patch
 34) Buy rake and rake the patch (+10)
 35) Get forestry backpack
-36) Bank all but wool and coins and runes, and axe
+36) Bank, keep wool, coins, hammer, tinderbox, runes, and axe
 37) Buy ~10 wines 
 38) Take wool to ned and get a rope made (+10)
 39) Insult aggie (+10)
@@ -111,6 +112,7 @@ LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&
 66) Grab hammer from bank
 	a) Get Task from Duradel
 	b) Get Enchanted Gem and Spiny Helm from duradel (+20)
+	c) Buy a torch
 67) Run Northeast in Shilo village and buy a night's rest (+30)
 68) Tele back to Karamja
 69) Enter Tzhaar area, and safespot a tzhaar (+30)
@@ -171,10 +173,13 @@ LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&
 	d) Smelt an Iron Bar (+10)
 	e) Go back and fish/cook
 </code></pre>
+<h4 id="should-be-able-to-unlock-zone">Should be able to Unlock zone</h4>
+<pre><code>0) Unlock Desert
+1) Thieve Menaphite Thugs to 500 Million Trillion
+</code></pre>
 <h2 id="tier-3">Tier 3</h2>
 <h3 id="points-2">(??? Points)</h3>
 <h4 id="take-clue-compass">Take Clue Compass</h4>
-<h4 id="should-be-able-to-unlock-first-region-here-90-tasks">Should be able to unlock first region here (~90 tasks)</h4>
 <p>Take Desert for 99 thieving potential and easy-ish echo boss.</p>
 <pre><code>0) Claim xp in the Varrock Museum, Lamps should give you overhead prayers
 1) Kill Scurius (+30) (+1 CM)
@@ -212,4 +217,86 @@ LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&
 </ul>
 </li>
 </ul>
+<h2 id="maxing">Maxing</h2>
 
+<table>
+<thead>
+<tr>
+<th>Skill</th>
+<th>Relic (Y/N)</th>
+<th>Method</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Runecrafting</td>
+<td>Yes</td>
+<td>Banker’s Note / GOTR</td>
+</tr>
+<tr>
+<td>Herblore</td>
+<td>Yes</td>
+<td>Banker’s Note / Production Master / Overgrown</td>
+</tr>
+<tr>
+<td>Thieving</td>
+<td>Yes</td>
+<td>Dodgy Deals</td>
+</tr>
+<tr>
+<td>Crafting</td>
+<td>Yes</td>
+<td>Production Master</td>
+</tr>
+<tr>
+<td>Fletching</td>
+<td>Yes</td>
+<td>Production Master</td>
+</tr>
+<tr>
+<td>Hunter</td>
+<td>Yes</td>
+<td>Animal Wrangler</td>
+</tr>
+<tr>
+<td>Mining</td>
+<td>No</td>
+<td>GOTR / Equilibrium</td>
+</tr>
+<tr>
+<td>Fishing</td>
+<td>Yes</td>
+<td>Animal Wrangler</td>
+</tr>
+<tr>
+<td>Cooking</td>
+<td>Yes</td>
+<td>Production Master / Animal Wrangler</td>
+</tr>
+<tr>
+<td>Firemaking</td>
+<td>Yes</td>
+<td>Wintertodt / Equilibrium</td>
+</tr>
+<tr>
+<td>Woodcutting</td>
+<td>No</td>
+<td>Forestry / Equilibrium</td>
+</tr>
+<tr>
+<td>Farming</td>
+<td>Yes</td>
+<td>Overgrown</td>
+</tr>
+<tr>
+<td>Agility</td>
+<td>Yes</td>
+<td>Dodgy Deals / Fossil Island Thieving Minigame</td>
+</tr>
+<tr>
+<td>Slayer</td>
+<td>No</td>
+<td>Grinding</td>
+</tr>
+</tbody>
+</table>
