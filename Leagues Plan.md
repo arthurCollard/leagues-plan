@@ -21,9 +21,10 @@ Trailblazer Reloaded <a href="https://oldschool.runescape.wiki/w/Trailblazer_Rel
 Combo Drops <a href="https://cdn.runescape.com/assets/img/external/oldschool/2024/newsposts/2024-11-15-Ag4t67/BOSS-DROPS_.jpg?_gl=1*j7ibr3*_gcl_au*MTIwMTMxOTg3NS4xNzMyMDI5ODc1*_ga*MjE0NTUzODQ4Ny4xNzMyMDI5ODc1*_ga_DSN9YBF934*MTczMjQxMTgwOS4xOS4wLjE3MzI0MTE4MDkuNjAuMC4w#_ga=2.152327098.281193427.1732311187-2145538487.1732029875">Map</a></p>
 <p>DPS Calculator: <a href="https://tools.runescape.wiki/osrs-dps/">Calc</a><br>
 Gecko Planning Sheet: <a href="https://docs.google.com/spreadsheets/d/1LJVEIIR9D56FF9PyUzb4nhofaCjpzSWTRGsUNsH7lNw/copy">Copy</a><br>
-LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&amp;t=599s">Inspiration for plan</a></p>
+LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&amp;t=599s">Inspiration for plan</a><br>
+Best Build: <a href="https://gearscape.net/calculators/best">Tool</a></p>
 <h2 id="regions">Regions</h2>
-<pre><code>Kourend / Fremmy / Asgarnia
+<pre><code>Desert / Kourend / Fremmy
 </code></pre>
 <h2 id="relics">Relics</h2>
 <pre><code>1) Animal Wrangler (Confident)
@@ -175,7 +176,8 @@ LilRatBags Strategy Video: <a href="https://www.youtube.com/watch?v=n39Zo1Io46o&
 </code></pre>
 <h4 id="should-be-able-to-unlock-zone">Should be able to Unlock zone</h4>
 <pre><code>0) Unlock Desert
-1) Thieve Menaphite Thugs to 500 Million Trillion
+1) Thieve Menaphite Thugs
+2) Do Pyramid Plunder Tasks
 </code></pre>
 <h2 id="tier-3">Tier 3</h2>
 <h3 id="points-2">(??? Points)</h3>
